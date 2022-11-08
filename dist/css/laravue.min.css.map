@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,AAAC,CACR,MAAM,CAAE,MAAM,CACd,OAAO,CAAE,KAAK,CACjB,AACD,AAAA,WAAW,AAAC,CACR,KAAK,CAAE,IAAI,CACd,AACD,AAAA,WAAW,AAAC,CACR,KAAK,CAAE,gBAAgB,CAC1B,AAED,AAEI,sBAFkB,CACpB,MAAM,CACJ,oBAAoB,AAAC,CACnB,YAAY,CAAE,IAAI,CACnB",
+    "sources": [
+        "../../resources/js/styles/laravue.scss"
+    ],
+    "names": [],
+    "file": "laravue.min.css"
+}
